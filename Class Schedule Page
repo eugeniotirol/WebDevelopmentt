@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Schedule</title>
+</head>
+<body>
+    
+    <header>
+        <h1>Class Schedule</h1>
+        <p>Schedule for the Week</p>
+    </header>
+
+    <main>
+        <h2>Daily Routine</h2>
+        <ol>
+            <li>Wake up early</li>
+            <li>Prepare for school</li>
+            <li>Attend classes</li>
+            <li>Go home, study and do it homework</li>
+        </ol>
+
+        <h2>Class Schedule</h2>
+        <ul>
+            <li>Exercise-Based Fitness Activities</li>
+            <li>Discrete Structures</li>
+            <li>National Service Training Program 2</li>
+            <li>Web Development</li>
+            <li>Readings in Philippine History</li>
+            <li>Computer Programming 2</li>
+            <li>Basic Electronics</li>
+            <li>Panitikan ng Pilipinas</li>
+            <li>Purposive Communication</li>
+        </ul>
+
+        <h2>Weekly Class Schedule</h2>
+        <table border="1">
+            <tr>
+                <th>Day</th>
+                <th>Subject</th>
+                <th>Time</th>
+            </tr>
+            <tr>
+                <td>MW</td>
+                <td>Exercise-Based Fitness Activities</td>
+                <td>8:00 - 9:00 AM</td>
+            </tr>
+            <tr>
+                <td>MWF</td>
+                <td>Dicrete Structures</td>
+                <td>7:00 - 8:00 AM</td>
+            </tr>
+            <tr>
+                <td>MWF</td>
+                <td>National Service Training Program 2</td>
+                <td>10:00 - 11:00 AM</td>
+            </tr>
+
+            <tr>
+                <td>MWF</td>
+                <td>Web Development</td>
+                <td>9:00 - 10:00 AM</td>
+            </tr>
+            <tr>
+                <td>SAT</td>
+                <td>Readings in Philippine History</td>
+                <td>7:00 - 10:00 AM</td>
+            </tr>
+            <tr>
+                <td>TTH</td>
+                <td>Computer Programming 2</td>
+                <td>7:00 - 8:30 AM</td>
+            </tr>
+            <tr>
+                <td>TTH</td>
+                <td>Basic Electronics</td>
+                <td>10:00 - 11:30 AM</td>
+            </tr>
+            <tr>
+                <td>TTH</td>
+                <td>Panitikan ng Pilipinas</td>
+                <td>12:00 - 1:30 AM</td>
+            </tr>
+            <tr>
+                <td>TTH</td>
+                <td>Purposive Communication</td>
+                <td>8:30 - 10:30 AM</td>
+            </tr>
+        </table>
+    </main>
+
+    <footer>
+        <p>My Class Schedule Page</p>
+    </footer>
+
+    <header>
+    <h2>My 1st Semester Grade</h2>
+    <table border="1">
+        <thead>
+        <th>NAME</th>
+        <th>SUBJECT</th>
+        <th>UNIT</th>
+        <th>GRADE</th>
+        </thead>
+    </header>
+
+    <main>
+        <tbody>
+        <tr>
+            <td rowspan="10">Eugenio D. Tirol Jr</td>
+            <td>Sining ng Kumonikasyon</td>
+            <td>3</td>
+            <td>1.7</td>
+        </tr>
+        <tr>
+            <td>Mathematics in the Modern World</td>
+            <td>3</td>
+            <td>1.3</td>
+        </tr>
+        <tr>
+            <td>Understanding the Self</td>
+            <td>3</td>
+            <td>1.8</td>
+        </tr>
+        <tr>
+            <td>National Training Serive Program 1</td>
+            <td>3</td>
+             <td>1.8</td>
+        </tr>
+        <tr>
+            <td>Movement Comptency Training</td>
+            <td>2</td>
+             <td>1.8</td>
+        </tr>
+        <tr>
+            <td>Computer Programming 1</td>
+            <td>3</td>
+            <td>1.7</td>
+        </tr>
+        <tr>
+            <td>Office Productivity Tools</td>
+            <td>3</td>
+            <td>1.5</td>
+        </tr>
+        <tr>
+            <td>Pre-Calculus</td>
+            <td>3</td>
+            <td>1.9</td>
+        </tr>
+        <tr>
+            <td>Introduction to Computing</td>
+            <td>3</td>
+            <td>2.2</td>
+        </tr>
+        
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td colspan="2" style="text-align: center;">Total Units:</td>
+                <td>26</td>
+                <td>Semestral Average: 1.73</td>
+            </tr>
+        </tfoot>
+
+    </table>
+    </main>
+    
+<br> 
+   <footer>
+    <p>Web Development Activity</p>
+    <p>Eugenio D. Tirol Jr</p>
+    <P>BSIT - 1A</P>
+   </footer>
+
+    
+</body>
+</html>
